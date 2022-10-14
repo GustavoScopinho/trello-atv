@@ -12,7 +12,6 @@
   margin: 0 auto;
   display: flex;
   align-items: flex-end;
-  
 }
 
 .trello-phrase{
@@ -29,7 +28,6 @@
 }
 
 .imagem-home img {
-
   width: 350px;
   display: flex;
   align-items: flex-end;
@@ -69,7 +67,6 @@
   gap: 12px;
   transition: 0.5;
 }
-
 
 hr{
   width: 1200px;

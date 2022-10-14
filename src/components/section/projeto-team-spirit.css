@@ -25,9 +25,7 @@
   color: var(--cor-primary);
   opacity: 90%;
   padding: 20px 20px;
-
 }
-
 
 .container-projeto button {
   background-color: var(--cor-secundary);
@@ -37,7 +35,6 @@
   font-size: 16px;
   border-radius: 5px;
   margin-bottom: 40px;
-
 }
 
 .container-spirit-02 {
