@@ -1,0 +1,33 @@
+@import url(./src/components/header/header.css);
+@import url(./src/components/home/home.css);
+@import url(./src/components/section/discover.css);
+@import url(./src/components/section/projeto-team-spirit.css);
+@import url(./src/components/section/features.css);
+@import url(./src/components/section/cards.css);
+@import url(./src/components/section/carrocel.css);
+@import url(./src/components/section/sign-up.css);
+@import url(./src/components/footer/footer.css);
+
+:root {
+  --cor-primary: rgb(9, 30, 66);
+  --cor-secundary: #0747A6;
+}
+
+ *{
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  list-style: none;
+  cursor: pointer;
+}
+
+ul{
+  list-style-type: none;
+}
+
+body{
+  font-family: 'Nunito Sans', sans-serif;
+}
+

@@ -1,0 +1,42 @@
+@import url(../../../style.css);
+
+.discover-trello{
+  background-color: #fff;
+  height: 50vh;
+}
+.container-discover {
+  margin-top: -200px;
+  width: 1200px;
+  margin: 0 auto;
+  height: 20vh;
+}
+.discover-trello img {
+  width: 60px;
+  padding-right: 30px;
+}
+
+.container-discover{
+  display: flex;
+
+}
+.pricing, .what, .enterprise {
+  display: flex;
+}
+
+.container-discover button {
+  background-color:var(--cor-secundary);
+  color: #fff;
+  border: none;
+  padding: 1rem 1rem 1rem;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.padding-text {
+  padding: 10px 80px 20px 0px;
+}
+
+.container-discover h2 {
+  color: var(--cor-primary);
+}
+

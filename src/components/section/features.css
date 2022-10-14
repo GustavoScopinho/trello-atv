@@ -1,0 +1,18 @@
+@import url(../../../style.css);
+
+.feature {
+  height: 380px;
+  width: 1200px;
+}
+.container-feature {
+  width: 500px;
+  margin: 20px 0px 0px 200px;
+}
+.container-feature h1{
+  color: var(--cor-primary);
+  font-size: 2.25rem;
+}
+.container-feature h3{
+  color: var(--cor-primary);
+  opacity: 90%;
+}

@@ -1,0 +1,67 @@
+@import url(../../../style.css);
+
+
+.projeto-team-spirit {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 1450px;
+  z-index: 0;
+}
+
+.container-projeto{
+  text-align: center;
+   width: 1200px;
+   margin: 0 auto;
+}
+
+.container-projeto h1{
+  margin-top: -100px;
+  color: var(--cor-primary);
+  font-size: 2.25rem;
+}
+
+.container-projeto h3 {
+  color: var(--cor-primary);
+  opacity: 90%;
+  padding: 20px 20px;
+
+}
+
+
+.container-projeto button {
+  background-color: var(--cor-secundary);
+  color: #fff;
+  border: none;
+  padding: 1rem 1rem 1rem;
+  font-size: 16px;
+  border-radius: 5px;
+  margin-bottom: 40px;
+
+}
+
+.container-spirit-02 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 1200px;
+}
+
+.container-spirit-02 h3 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.container-marcas {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 700px;
+}
+
+.container-marcas img {
+  width: 162px;
+  height: 80px;
+}

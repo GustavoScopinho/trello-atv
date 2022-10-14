@@ -1,0 +1,38 @@
+@import url(../../../style.css);
+
+.cards {
+  height: 500px;
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.cards img {
+  height: 313px;
+  width: 415px;
+}
+
+.card01-text{
+  padding: 0px 40px;
+}
+
+.card01-text p {
+  color: var(--cor-primary);
+  text-align: left;
+
+}
+
+.card01-text h1 {
+  color: var(--cor-primary);
+  font-size: 2.25rem;
+}
+
+.p-card01{
+  padding: 20px 0px;
+  font-size: 20px;
+}
+.h3-card{
+  color: var(--cor-primary);
+  font-size: 20px;
+}
