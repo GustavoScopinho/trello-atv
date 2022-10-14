@@ -27,7 +27,8 @@ ul{
   list-style-type: none;
 }
 
-body{
+body, input, button, textarea{
   font-family: 'Nunito Sans', sans-serif;
 }
+
 
